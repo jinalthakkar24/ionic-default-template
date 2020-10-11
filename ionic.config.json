@@ -1,0 +1,7 @@
+{
+  "name": "blank_project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
